@@ -1,4 +1,4 @@
-# {Great Windows Forms Seach Box For DatagridView}
+# Great Windows Forms Seach Box For DatagridView
 
 ---------------------------------------
 
