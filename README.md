@@ -1,13 +1,20 @@
-# Great Windows Forms Seach Box For DatagridView
+# Great Windows Forms Search Box For DatagridView
 
 ---------------------------------------
 
-Easily Seaches in DatagridView just by 1 Line Of Code...
+Easily Seaches in DatagridView just by 1 Line Of Code... 
+
+
 
 ```
 dataGridView1.DataSource = searchBox1.searchResult(_data);  
 ```
 ![app Preview](https://github.com/shoseinpoor/winform-searchbox/blob/master/preview.png)
+
+
+## Open Source
+
+You can change any line of code or desing of searcgBox easily
 
 
 
