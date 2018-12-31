@@ -7,8 +7,8 @@ Easily Seaches in DatagridView just by 1 Line Of Code...
 ```
 dataGridView1.DataSource = searchBox1.searchResult(_data);  
 ```
+![app Preview](https://github.com/shoseinpoor/winform-searchbox/blob/master/preview.png)
 
-https://github.com/shoseinpoor/winform-searchbox/blob/master/preview.png
 
 
 ### Prerequisites 
