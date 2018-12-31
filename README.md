@@ -7,6 +7,10 @@ Easily Seaches in DatagridView just by 1 Line Of Code...
 ```
 dataGridView1.DataSource = searchBox1.searchResult(_data);  
 ```
+
+https://github.com/shoseinpoor/winform-searchbox/blob/master/preview.png
+
+
 ### Prerequisites 
 
 You fill comboBox with Column names by calling methods in 3 ways which you need:
