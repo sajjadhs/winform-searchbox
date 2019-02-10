@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-Easily Seaches in DatagridView just by 1 Line Of Code... 
+Easily Searches in DatagridView just by 1 Line Of Code... 
 
 
 
@@ -14,7 +14,7 @@ dataGridView1.DataSource = searchBox1.searchResult(_data);
 
 ## Open Source
 
-You can change any line of code or desing of searcgBox easily
+You can change any line of code or desing of searchBox easily
 
 
 
