@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-Easily Searches in DatagridView just by 1 Line Of Code... 
+Easily Searches in DatagridView just by few lines of code... 
 
 
 
@@ -14,14 +14,15 @@ dataGridView1.DataSource = searchBox1.searchResult(_data);
 
 ## Open Source
 
-You can change any line of code or desing of searchBox easily
+You can change any line of code or design of searchBox easily
 
 
 
-### Prerequisites 
+### Setup to SearchBox
 
-You fill comboBox with Column names by calling methods in 3 ways which you need:
-
+1- Add SearchBox control to your windows-form project,
+2- Drag and drop the control to the form,
+3- Fill your gridVeiw(optional), then use one of below codes to get the gridview columns
 
 ```
 searchBox1.SetCmboBoxDataSource(dataGridView1);
@@ -35,9 +36,6 @@ searchBox2.SetSetCmboBoxDataSourceByType(typeof(Data));
 searchBox3.SetCmboBoxDataSource(colsNameList);
 ```
 
-See Example for more information... easy to understand.
-
-
 then, just Implement "SearchBoxDelegate" in you forms:
 ```
 public void Searching(object sender,string keyword)
@@ -49,6 +47,8 @@ public void Searching(object sender,string keyword)
             } 
         }
 ```
+
+See Example for more information... easy to understand.
 
 Congratulations :) Done! ...
 
