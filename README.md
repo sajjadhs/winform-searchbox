@@ -1,4 +1,4 @@
-# Great Windows Forms Search Box For DatagridView
+# Simple Search Box For DatagridView in Windows Forms
 
 ---------------------------------------
 
